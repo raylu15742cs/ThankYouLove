@@ -1,8 +1,8 @@
-.top {
-    display: flex;
-}
+
 body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    color:black;
+    background-color: rgb(232, 220, 184)
 }

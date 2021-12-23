@@ -6,3 +6,12 @@ body {
     color:black;
     background-color: rgb(232, 220, 184)
 }
+p {
+    margin: 6px;
+}
+iframe {
+    margin-top: 10px;
+}
+h3 {
+    margin: 6px;
+}
